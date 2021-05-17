@@ -299,9 +299,9 @@ if __name__ == '__main__':
 
     # print_BWT(getBWT(string)) -> prints the BWT matrix
 
-    # reverseBWT(string) -> returns the original string from the BWT reversal
+    # print(reverseBWT(string)) -> returns the original string from the BWT reversal
 
-    # matching_offfsets(string, p) -> returns a list containing the positions in which the reads align to the target
+    # print(matching_offfsets(string, p)) -> returns a list containing the positions in which the reads align to the target
 
     # align_matches(string, p, offsets) -> prints the correct mapping of the query on the target together with the
     # respective numerical range
